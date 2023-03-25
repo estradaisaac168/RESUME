@@ -1,0 +1,21 @@
+{
+    "name": "isaac/resume",
+    "authors": [
+        {
+            "name": "androman168",
+            "email": "66146597+androman168@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Models\\" : "./models",
+            "Helpers\\" : "./helpers"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

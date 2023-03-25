@@ -1,0 +1,3 @@
+<?php
+
+FILE_IMAGE
